@@ -7,12 +7,12 @@ OKGREEN='\033[92m'
 OKYELLOW='\033[93m'
 RESET='\e[0m'
 Magenta="\033[35m"
- LightRed="\033[91m"
-    LightGreen="\033[92m"
-    LightYellow="\033[93m"
-    LightBlue="\033[94m"
-    LightMagenta="\033[95m"
-    LightCyan="\033[96m"
+LightRed="\033[91m"
+LightGreen="\033[92m"
+LightYellow="\033[93m"
+LightBlue="\033[94m"
+LightMagenta="\033[95m"
+LightCyan="\033[96m"
 
 
 #### Colors Output
